@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types.web_app_info import WebAppInfo
 
-bot = Bot('6640934603:AAHDRQunrT_t_25pEyR7pdGzz0tMWDPwxyg')
+bot = Bot('')
 dp = Dispatcher(bot)
 
 print("hello")
